@@ -1,0 +1,64 @@
+1. Create a new file:
+	$ touch name_file.js
+
+2. Create a new folder:
+	$ mkdir name_folder
+
+3. Navigate between directories:
+	$ cd name_folder/
+
+4. Back to last directorie:
+	$ cd ..
+
+5. Back to directory /:
+	$ cd
+
+6. Read in new file:
+	$ cat name_file.js
+
+7. Write in file. You can use: nano, vim, vi. I used vim editor:
+	$ vim name_file.js
+
+8. Delete last word typed:
+        - Ctrl + w
+
+9. Delete line typed:
+        - Ctrl + u
+
+10. Clear Terminal:
+        - Ctrl + l
+                or
+        $ clear
+
+11. Exit Terminal:
+        - Ctrl + d
+
+12. Compress a folder:
+	$ tar -cz name_folder > name_file.tar.gz
+
+13. Extract a file.tar.gz in same directory:
+	$ tar -xf name_file.tar.gz 
+
+14. Extract a file.tar.gz in another directory:
+	$ tar -xf name_file.tar.gz -C ~/Documents
+
+15. Commands of Vim (Vim is a editor of files):
+	1°) ESC - Disable write.
+	2°) i - Write in file.
+	3°) ESC + :q - Quit of file.
+	4°) ESC + :wq - Save modifications and quit.
+	5°) ESC + :q! - Quit without save modifications.
+	6°) ESC + :w - Save modifications file without quit
+	7°) ESC + /word_to_filter + n - Search in file the occurrence of word typed
+
+
+
+
+
+
+
+
+
+
+
+
