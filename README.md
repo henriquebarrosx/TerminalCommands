@@ -11,6 +11,14 @@
 
 > Here contains examples of commands to list, kill and detail process.
 
+### Executing
+> To execute, go to directory folder shell-scripts, open terminal and type:
+
+```
+  $ chmod +x packages-script.sh
+
+```
+
 ### System Operation used:
 
 > Xubuntu (Is one Linux distribution derivative of Ubuntu)
