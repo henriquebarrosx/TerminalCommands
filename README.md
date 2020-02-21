@@ -9,7 +9,11 @@
 
 ### Shell To Management
 
-> Here contains examples of commands to manager process, how list, kill, detail process.
+> Here contains examples of commands to list, kill and detail process.
+
+### System Operation used:
+
+> Xubuntu (Is one Linux distribution derivative of Ubuntu)
 
 ### Packages Scripts
 
