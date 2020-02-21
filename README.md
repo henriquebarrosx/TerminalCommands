@@ -1,31 +1,34 @@
-# Commands Of Terminal
+## Commands Of Terminal
 
-> My intention when i write this was show how simples lines scripts that can help us and turn some task in funny moments.
+My intention when i write this was show how simples lines scripts that can help us and turn some task in funny moments.
 
 ### Simple Shell Comands
 
 > This file teach basics commands that can be used in Terminal.
-> Terminal, or Shell, is one form of communication between users and system operational to execute some tasks instead of use graphics interface.
+> Terminal, or Shell, is one form of communication between users and system operational to execute some tasks instead of use > graphics interface.
 
 ### Shell To Management
 
 > Here contains examples of commands to list, kill and detail process.
 
 ### Executing
-> To execute, go to directory folder shell-scripts, open terminal and type:
+
+To execute, go to directory folder shell-scripts, open terminal and type:
 
 ```
   $ chmod +x packages-script.sh
 
 ```
 
+This enable permission for file to be executable.
+
 ### System Operation used:
 
-> Xubuntu (Is one Linux distribution derivative of Ubuntu)
+Xubuntu (Is one Linux distribution derivative of Ubuntu)
 
 ### Packages Scripts
 
-> To finish, we've a file .sh in shell-script's folder that execute a script's list used to:
+To finish, we've a file .sh in shell-script's folder that execute a script's list used to:
 
 - Update packages.
 - Install packages.
