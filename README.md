@@ -13,7 +13,7 @@
 
 ### Packages Scripts
 
-> To finish, we've a file .sh that execute a script's list used to:
+> To finish, we've a file .sh shell-script folder that execute a script's list used to:
 
 - Update packages.
 - Install packages.
