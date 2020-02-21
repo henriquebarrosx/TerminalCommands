@@ -43,6 +43,9 @@
 	$ tar -xf name_file.tar.gz -C ~/Documents
 
 15. Commands of Vim (Vim is a editor of files):
+	-Install
+	$ sudo apt-get install vim -y
+
 	1°) ESC - Disable write.
 	2°) i - Write in file.
 	3°) ESC + :q - Quit of file.

@@ -1,0 +1,28 @@
+1. List all process:
+	$ ps -e
+		or
+	$ pstree
+		or
+	-Install
+	$ sudo apt-get install htop
+	$ htop
+
+2. List process filtered:
+	- With details of process
+	$ ps -ef | grep name_process
+
+	- Without details
+	$ ps -e | grep name_process 
+
+3. Filter some params: (Can be used in cat or ps, for example)
+	$ ... | grep item-to-filter
+
+4. Kill process:
+	$ kill id_process
+
+5. kill process without response:
+	$ kill -9 id_process
+
+6. Kill all process that like name especificed:(In this example we use 'chrome')
+	$ killall -9 chrome
+
