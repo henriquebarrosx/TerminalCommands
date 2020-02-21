@@ -1,13 +1,13 @@
 ## Commands Of Terminal
 
-My intention when i write this was show how simples lines scripts that can help us and turn some task in funny moments.
+My intention when i write this was show how a simple of script line can help us to turn simple day-to-day task .
 
-### Simple Shell Comands
+### Simple Shell Comands File
 
 > This file teach basics commands that can be used in Terminal.
-> Terminal, or Shell, is one form of communication between users and system operational to execute some tasks instead of use > graphics interface.
+> Terminal, or Shell, is one form of communication between users and system operational to execute some tasks instead of use graphics interface.
 
-### Shell To Management
+### Shell To Management File
 
 > Here contains examples of commands to list, kill and detail process.
 
@@ -20,7 +20,7 @@ To execute, go to directory folder shell-scripts, open terminal and type:
 
 ```
 
-This enable permission for file to be executable.
+This enable permission from file to be executable.
 
 ### System Operation used:
 
