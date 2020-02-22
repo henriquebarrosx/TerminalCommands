@@ -1,11 +1,11 @@
 ## Commands Of Terminal
 
-My intention when i write this was show how a simple of script line can help us to turn simple day-to-day task .
+My intention when i write this was show how a simple script's line can help us to turn easy task of day-to-day.
 
 ### Simple Shell Comands File
 
 > This file teach basics commands that can be used in Terminal.
-> Terminal, or Shell, is one form of communication between users and system operational to execute some tasks instead of use graphics interface.
+> Terminal, or Shell, is one form of communication between users and operational system to execute some tasks instead of use graphics interface.
 
 ### Shell To Management File
 
