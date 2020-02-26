@@ -17,6 +17,7 @@ To execute, go to directory folder shell-scripts, open terminal and type:
 
 ```
   $ chmod +x packages-script.sh
+  $ ./packages-script.sh
 ```
 
 This enable permission from file to be executable.
