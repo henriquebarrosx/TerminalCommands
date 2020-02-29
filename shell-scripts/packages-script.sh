@@ -60,13 +60,13 @@ clear && date
 echo " "
 echo " "
 echo "==========================================="
-echo "||            Install Chrome             ||"
+echo "||            Install Opera              ||"
 echo "==========================================="
 echo " "
 
-wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
-sudo apt install ./google-chrome-stable_current_amd64.deb
-cat /etc/apt/sources.list.d/google-chrome.list
+wget -qO- https://deb.opera.com/archive.key | sudo apt-key add -
+sudo add-apt-repository "deb [arch=i386,amd64] https://deb.opera.com/opera-stable/ stable non-free"
+sudo apt install opera-stable
 sleep 3
 
 clear && date
@@ -152,6 +152,28 @@ echo "==========================================="
 echo " "
 
 sudo snap install insomnia
+sleep 3
+
+clear && date
+echo " "
+echo " "
+echo "==========================================="
+echo "||            Install Postman            ||"
+echo "==========================================="
+echo " "
+
+sudo snap install postman
+sleep 3
+
+clear && date
+echo " "
+echo " "
+echo "==========================================="
+echo "||            Install Discord            ||"
+echo "==========================================="
+echo " "
+
+sudo snap install discord
 sleep 3
 
 clear && date
