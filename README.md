@@ -35,7 +35,7 @@ To finish, we've a file .sh in shell-script's folder that execute a script's lis
 - Install Nemo.
 - install Plank.
 - install Yaru.
-- Install Chrome.
+- Install Opera.
 - Install Curl.
 - Install NodeJS.
 - Install Yarn.
@@ -43,6 +43,7 @@ To finish, we've a file .sh in shell-script's folder that execute a script's lis
 - Install Fira Code.
 - Install VSCode.
 - Install Insomnia.
+- Install Postman.
 - Install Startup Disk Creator.
 - Install Gnome Tools.
 - Create custom folders
